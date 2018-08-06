@@ -1,0 +1,14 @@
+<Sentences>
+    <Sentence>
+        <wi num="0" entity="O">Good</wi>
+        <wi num="1" entity="O">afternoon</wi>
+        <wi num="2" entity="PERSON">Rajat</wi>
+        <wi num="3" entity="PERSON">Raina</wi>
+        <wi num="4" entity="O">,</wi>
+        <wi num="5" entity="O">how</wi>
+        <wi num="6" entity="O">are</wi>
+        <wi num="7" entity="O">you</wi>
+        <wi num="8" entity="O">today</wi>
+        <wi num="9" entity="O">?</wi>
+    </Sentence>
+</Sentences>
